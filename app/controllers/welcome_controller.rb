@@ -5,6 +5,7 @@ class WelcomeController < ApplicationController
   def about
   end
 
-  def contact
+  def faq
   end 
+
 end
