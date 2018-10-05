@@ -52,6 +52,7 @@ group :development, :test do
   gem 'rails-controller-testing'
   gem 'shoulda'
   gem 'pry-rails' 
-  gem 'pry' 
+  gem 'pry'
+  gem 'factory_girl_rails', '~> 4.0'
 
 end
